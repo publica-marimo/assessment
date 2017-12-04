@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+    background-color: #d0d7fb;
+    width: 500px;
+    margin: 0 auto;
+}
+h1 {
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+p {
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+button {
+    padding: 5px 20px;
+    background-color: #5f77ee;
+    border-color: #5f77ee;
+    border-style: none;
+}
+input {
+    height: 20px;
+}
